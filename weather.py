@@ -2,7 +2,7 @@ import requests
 
 def get_weather(city):
       # this is apikey get from there official website
-    api_key = 'j5j8j8884decaf91fddf8e487cd91e'
+    api_key = 'Apikey'
 
     
     # this is link of open Weather map 
